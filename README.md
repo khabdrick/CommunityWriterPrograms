@@ -80,7 +80,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [ImageKit](https://form.asana.com/?hash=4a457043221411a8d81971bc930a6a932add03c8eaeec167cf1fee81db871953&id=1166170812623393) - $300 per piece
   >  Content focused on technical guide on ImageKit and Image Optimization.
 
-- [Linode](https://www.linode.com/docs/contribute/) - Up to $300 per piece
+- [Linode](https://www.linode.com/docs/contribute/) - Up to $300 per piece(x)
   > Technical tutorials with code on Linux or Linode.
 
 - [LoginRadius](https://www.loginradius.com/blog/async/page/guest-blog) - Up to $200 per piece
