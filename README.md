@@ -71,10 +71,10 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Hasura](https://blog.hasura.io/the-hasura-technical-writer-program/) - Up to $300 per piece(x)
   > Technical tutorials with code about Hasura or GraphQL.
 
-- [Hit Subscribe](https://www.hitsubscribe.com/apply-to-be-an-author/) - $100 per piece, $200 for 2x length and ghostwritten articles (Special articles).
+- [Hit Subscribe](https://www.hitsubscribe.com/apply-to-be-an-author/) - $100 per piece, $200 for 2x length and ghostwritten articles (Special articles).(x)
   > Technical content production agency that works with many clients.
 
-- [Honeybadger](https://www.honeybadger.io/blog/write-for-us/) - From $500 per piece
+- [Honeybadger](https://www.honeybadger.io/blog/write-for-us/) - From $500 per piece(x)
   > Ruby and Elixir tutorials with code. Pick from a list of possible articles.
 
 - [ImageKit](https://form.asana.com/?hash=4a457043221411a8d81971bc930a6a932add03c8eaeec167cf1fee81db871953&id=1166170812623393) - $300 per piece
@@ -83,13 +83,13 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Linode](https://www.linode.com/docs/contribute/) - Up to $300 per piece(x)
   > Technical tutorials with code on Linux or Linode.
 
-- [LoginRadius](https://www.loginradius.com/blog/async/page/guest-blog) - Up to $200 per piece
+- [LoginRadius](https://www.loginradius.com/blog/async/page/guest-blog) - Up to $200 per piece(x)
   > Technical tutorials with code. Not limited to LoginRadius products.
 
-- [LogRocket](https://blog.logrocket.com/become-a-logrocket-guest-author-7d970eb673f9/) - Up to $350 per piece
+- [LogRocket](https://blog.logrocket.com/become-a-logrocket-guest-author-7d970eb673f9/) - Up to $350 per piece(x)
   > Technical tutorials with code. Write about anything frontend.
 
-- [Make Use Of](https://www.makeuseof.com/contributor/) - $120 per piece with performance benefits
+- [Make Use Of](https://www.makeuseof.com/contributor/) - $120 per piece with performance benefits(x)
   > Tutorials and features about consumer apps and software products.
 
 - [Mixster](https://mixstersite.wordpress.com/2019/05/24/mixster/#more-2253)
@@ -112,7 +112,7 @@ A list of companies that have paid Developer Community Writer Programs.
 - [Postmark](https://postmarkapp.com/write-for-us) - $200-$300 per piece
   > Applications are currently closed.
 
-- [Rancher](https://rancher.com/writing-program/roles/writer/) - $300 per piece
+- [Rancher](https://rancher.com/writing-program/roles/writer/) - $300 per piece(x)
   > Writing about devops, Kubernetes, and Rancher.
 
 - [Real Python](https://realpython.com/write-for-us/) - Up to $300 per piece
@@ -153,10 +153,10 @@ A list of companies that have paid Developer Community Writer Programs.
 - [TestDriven.io](https://testdriven.io/blog/) - $300-$500 per guest post ( x )
   > Web development tutorials designed to teach critical skills needed to test, launch, scale, and optimize applications.
 
-- [Tutorialspoint](https://www.tutorialspoint.com/about/tutorials_writing.htm) - Up to $500 per piece
+- [Tutorialspoint](https://www.tutorialspoint.com/about/tutorials_writing.htm) - Up to $500 per piece(x)
   > In-depth tutorials on technical and business topics.
 
-- [Twilio](https://go.twilio.com/twilio-voices/) - Up to $500 per piece
+- [Twilio](https://go.twilio.com/twilio-voices/) - Up to $500 per piece(x)
   > Technical tutorials with code. Doesn't necessarily have to use Twilio.
 
 - [TypingDNA](https://www.typingdna.com/guest-author-program) - Up to $500 per piece
